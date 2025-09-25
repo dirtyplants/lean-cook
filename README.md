@@ -8,7 +8,11 @@ https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.1850
 Key Column Legend
 
 **lat**: latitude
+
 **lon**: longitude
+
 **height**: tree height (m)
+
 **azimuth**: azimuth of lean (˚)
+
 **lean**: extent of lean (m)
